@@ -1,2 +1,2 @@
 # Excel-US-Debt-Tracking-Project
-Excel prject for US Debt Trends 
+Excel project tracking historical trends for US debt, projecting trends for publicly held debt in the US.
